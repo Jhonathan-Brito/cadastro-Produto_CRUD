@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Brinco Olho Grego",
+      "price": 20,
+      "id": 1
+    },
+    {
+      "name": "Camiseta Tie Die Alien",
+      "price": 59.9,
+      "id": 2
+    },
+    {
+      "name": "Top Crochet",
+      "price": 45.9,
+      "id": 3
+    },
+    {
+      "name": "Bolsa Para Tabaco",
+      "price": "120",
+      "id": 4
+    },
+    {
+      "name": "teste",
+      "price": "20",
+      "id": 5
+    }
+  ]
+}
